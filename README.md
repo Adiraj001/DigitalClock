@@ -11,3 +11,5 @@ Technologies Used -
 Java
 Swing for the graphical user interface
 Timer for real-time updates
+
+How to Run Clone or download the source code. Compile and run the Notepad.java file using your preferred IDE or the terminal. Once the application is launched, you can start creating and editing text documents. Or Eles Directly Use The Executable File (.exe) Provided In The Repo
